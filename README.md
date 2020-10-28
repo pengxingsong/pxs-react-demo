@@ -1,2 +1,2 @@
 # pxs-react-demo
-react 0-1 学习应用
+react 从小白到高阶的学习及应用
